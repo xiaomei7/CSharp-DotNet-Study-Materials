@@ -1,0 +1,17 @@
+﻿@model OdeToFood.Models.Restaurant
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>@Model.Name</h1>
+<div>
+    ID: @Model.Id
+</div>
+<div>
+    Cuisine: @Model.Cuisine
+</div>
+
+<div>... Restaurant Details ...</div>
+
+<a asp-action="Index" asp-controller="Home">Home</a>
