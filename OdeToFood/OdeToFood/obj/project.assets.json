@@ -11544,11 +11544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xiaomei_Wang\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\Users\\Xiaomei_Wang\\Documents\\GitHub\\CSharp-DotNet-Study-Materials\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\Xiaomei_Wang\\Desktop\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "C:\\Users\\Xiaomei_Wang\\Documents\\GitHub\\CSharp-DotNet-Study-Materials\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\Xiaomei_Wang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xiaomei_Wang\\Desktop\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "C:\\Users\\Xiaomei_Wang\\Documents\\GitHub\\CSharp-DotNet-Study-Materials\\OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
